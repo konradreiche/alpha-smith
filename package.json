@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-facebook": "^2.0.2",
+    "react-tools": "^0.13.0",
+    "sass": "^1.69.5"
+  }
+}
